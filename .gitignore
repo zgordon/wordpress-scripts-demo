@@ -1,0 +1,10 @@
+composer.lock
+/node_modules/
+/vendor/
+/logs/
+/reports/
+package-lock.json
+.vscode
+/.vscode/
+.DS_Store
+.DS_Store?
